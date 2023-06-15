@@ -1,6 +1,6 @@
 # <em> Curriculum - Portafolio | Jecmison Figuera </em>
 
-**LINK** > > >   [https://github.com/Jecmison/jecmison.gtihub.io](https://jecmison.github.io/jecmison.gtihub.io/)   :+1:
+**LINK** > > >  https://jecmison.github.io/  :+1:
 
 
 ***Mis compañeros de equipo para el commit, fueron:***
