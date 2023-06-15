@@ -1,0 +1,130 @@
+.container {
+    padding-top: 20px;
+    padding-bottom: 30px;
+}
+
+#description {
+    height: 380px;
+    background-color: black;
+    display: flex;
+}
+
+#description .foto-cv img {
+    width: 100%;
+    height: 100%;
+    padding-left: 30%;
+    object-fit: contain;
+}
+
+#description .text {
+    width: 45%;
+    margin: 45px 15px 10px 5%;
+}
+
+#description .foto-cv {
+    width: 35%;
+    margin: 10px 20px 10px 50px;
+    height: 90%;
+}
+
+#description .text p {
+    color: whitesmoke;
+    text-align: justify;
+}
+
+#educacion {
+    height: 380px;
+}
+
+.formacion {
+    text-align: center;
+    padding-top: 13px;
+}
+
+.universidad {
+    display: flex;
+}
+
+.usb {
+    margin: 15px 70px;
+    text-align: center;
+}
+
+.usr {
+    margin: 15px 70px;
+    text-align: center;
+}
+
+#expelaboral {
+    height: 380px;
+    background-color: rgb(172, 201, 198);
+}
+
+.experiencia {
+    text-align: center;
+    padding-top: 13px;
+}
+
+.empresas {
+    display: flex;
+}
+
+.metlife {
+    margin: 15px 40px;
+    text-align: center;
+}
+
+.metlife img {
+    width: 170px;
+    height: 150px;
+    ;
+}
+
+.reutter {
+    margin: 70px 40px;
+    text-align: center;
+}
+
+.reutter img {
+    width: 160px;
+    height: 75px;
+    margin-bottom: 20px;
+}
+
+.precision {
+    margin: 15px 70px;
+    text-align: center;
+}
+
+.precision img {
+    width: 200px;
+    height: 150px;
+    ;
+}
+
+.footer {
+    text-align: center;
+}
+
+.footer i {
+    padding: 15px;
+    font-size: 30px;
+}
+
+.footer a {
+    color: blue;
+}
+
+.portafolio {
+    text-align: center;
+}
+
+.portafolio img {
+    object-fit: contain;
+}
+
+.portafolio table {
+    color: rgb(112, 214, 9);
+    font-weight: bold;
+    vertical-align: baseline;
+}
